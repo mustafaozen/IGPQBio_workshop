@@ -3,6 +3,6 @@ channels:
   - alubbock
   - defaults
 dependencies:
-  - python>=3.9
+  - python>=3.9.0
   - bionetgen
   - pysb
