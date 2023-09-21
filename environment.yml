@@ -6,3 +6,4 @@ dependencies:
   - python=3.9.0
   - bionetgen
   - pysb
+  - matplotlib
